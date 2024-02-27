@@ -6,3 +6,4 @@
     document.documentElement.setAttribute('data-theme', newTheme);
   });
 </script>
+
